@@ -7,21 +7,20 @@ html, body {
 }
 
 p {
-	color: #85adad;
+	/*TODO: Change the color of paragraph texts*/
 }
 
 h1 {
-	color: #339966;
+	/*TODO: Change the color of h1 text*/
 }
 
 img {
-
 	border-radius: 25px;
 	max-width: 100%;
 }
 
 .brown {
-	color: #7a7a52;
+	/*TODO: Change the color of text to brown*/
 }
 
 #page-wrapper {
@@ -36,12 +35,12 @@ img {
 
 
 #blue {
-	background-color: #e5ffff;
+	/*TODO: Change the background color to blue*/
 }
 
 #doubleyellow {
 	display: inline-block;
-	background-color: #ffffe5;
+	/*TODO: Change the background color to yellow*/
 }
 
 #doubleyellow > img  {
@@ -50,15 +49,15 @@ img {
 }
 
 #green {
-	background-color: #b3e5cc;
+	/*TODO: Change the backgrond color to green*/
 }
 
 #yellow {
-	background-color: #ffffe5;
+	/*TODO: Change the background color to yellow*/
 }
 
 #white {
-	background-color: #e5ffff;
+	/*TODO: Change the background color to white*/
 }
 
 #white > img {
@@ -67,7 +66,7 @@ img {
 
 #content_holder {
 	display: inline-block;
-	background-color: #b3e5cc;
+	/*TODO:; change the background color to green*/
 }
 
 .content {
